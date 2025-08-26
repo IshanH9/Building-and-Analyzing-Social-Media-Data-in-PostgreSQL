@@ -9,6 +9,11 @@ Instagram-style data model built in PostgreSQL with schema design, sample data, 
 
 ---
 
+## ER Diagram
+![ER Diagram](https://github.com/IshanH9/Building-and-Analyzing-Social-Media-Data-in-PostgreSQL/blob/main/social-media.drawio.png?raw=true)
+
+---
+
 ## Features
 - Relational schema design with primary/foreign keys  
 - Queries covering:
