@@ -28,3 +28,8 @@ Instagram-style data model built in PostgreSQL with schema design, sample data, 
 2. Run the schema file:
    ```bash
    psql -U <user> -d <dbname> -f schema.sql
+3. Load or insert sample data.
+4. Explore queries:
+   ```bash
+   psql -U <user> -d <dbname> -f queries.sql
+
