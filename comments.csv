@@ -1,0 +1,8 @@
+comment_id,post_id,user_id,comment_text,created_at
+1,1,2,Wow! Stunning.,2025-08-25 18:46:30.462926
+2,1,3,Beautiful colors.,2025-08-25 18:46:30.462926
+3,2,1,What a cutie!,2025-08-25 18:46:30.462926
+4,2,4,"Aww, I want one.",2025-08-25 18:46:30.462926
+5,3,5,Yum!,2025-08-25 18:46:30.462926
+6,4,1,Looks like an awesome trip.,2025-08-25 18:46:30.462926
+7,5,3,Wish I was there!,2025-08-25 18:46:30.462926

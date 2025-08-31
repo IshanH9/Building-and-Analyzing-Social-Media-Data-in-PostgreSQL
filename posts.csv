@@ -1,0 +1,6 @@
+post_id,user_id,caption,image_url,created_at
+1,1,Beautiful sunset,<https://www.example.com/sunset.jpg>,2025-08-25 18:46:30.462926
+2,2,My new puppy,<https://www.example.com/puppy.jpg>,2025-08-25 18:46:30.462926
+4,4,Throwback to my vacation,<https://www.example.com/vacation.jpg>,2025-08-25 18:46:30.462926
+5,5,Amazing concert,<https://www.example.com/concert.jpg>,2025-08-25 18:46:30.462926
+3,3,Best pizza ever,<https://www.example.com/pizza.jpg>,2025-08-25 18:46:30.462926
